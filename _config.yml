@@ -1,0 +1,28 @@
+name: Ama test site
+favicon: null
+layout_spectrum: 0.7615051679313183
+typography_spectrum: 0.9528102979529649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27581422589719296
+  lightness: 0.9832401778548956
+  saturation: 0.7234329285565764
+  rhythmicContrast: 0.5184854054823518
+purpose: []
